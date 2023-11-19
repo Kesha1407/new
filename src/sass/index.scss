@@ -1,0 +1,28 @@
+* {
+    font-family: 'Museo Sans Cyrl', sans-serif;
+}
+
+@import 'variables';
+
+.container {
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+@import 'promo';
+
+@import 'header';
+
+@import 'button';
+
+@import 'advantages';
+
+@import 'consultation';
+
+@import 'titles';
+
+@import 'form';
+
+@import 'variables';
+
+@import 'carousel';
